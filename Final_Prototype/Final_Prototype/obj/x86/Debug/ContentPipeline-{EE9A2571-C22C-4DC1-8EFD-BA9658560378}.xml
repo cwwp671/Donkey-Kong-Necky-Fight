@@ -1,0 +1,421 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Images\Coconut.png</Source>
+      <Name>Images\Coconut</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\l231\Desktop\Final_Beta 4\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\Coconut.xnb</Output>
+      <Time>2013-04-17T14:05:34-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\NeckyR_Sheet.png</Source>
+      <Name>Images\NeckyR_Sheet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\l231\Desktop\Final_Beta 4\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\NeckyR_Sheet.xnb</Output>
+      <Time>2013-04-17T20:54:24-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\NeckyL_Sheet.png</Source>
+      <Name>Images\NeckyL_Sheet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\l231\Desktop\Final_Beta 4\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\NeckyL_Sheet.xnb</Output>
+      <Time>2013-04-17T21:00:42-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\BossLevelDefault.png</Source>
+      <Name>Images\BossLevelDefault</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\l231\Desktop\Final_Beta 4\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\BossLevelDefault.xnb</Output>
+      <Time>2013-04-18T09:06:34-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\ForegroundDefault.png</Source>
+      <Name>Images\ForegroundDefault</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\l231\Desktop\Final_Beta 4\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\ForegroundDefault.xnb</Output>
+      <Time>2013-04-18T21:25:12-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Singleplayer.png</Source>
+      <Name>Images\Singleplayer</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\l231\Desktop\Final_Beta 4\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\Singleplayer.xnb</Output>
+      <Time>2013-04-23T13:03:02-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Singleplayer_Highlighted.png</Source>
+      <Name>Images\Singleplayer_Highlighted</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\l231\Desktop\Final_Beta 4\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\Singleplayer_Highlighted.xnb</Output>
+      <Time>2013-04-23T13:03:12-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\MenuBackground.png</Source>
+      <Name>Images\MenuBackground</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\l231\Desktop\Final_Beta 4\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\MenuBackground.xnb</Output>
+      <Time>2013-04-23T16:34:46-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Exit.png</Source>
+      <Name>Images\Exit</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\l231\Desktop\Final_Beta 4\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\Exit.xnb</Output>
+      <Time>2013-04-26T11:15:56-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Exit_Highlighted.png</Source>
+      <Name>Images\Exit_Highlighted</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\l231\Desktop\Final_Beta 4\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\Exit_Highlighted.xnb</Output>
+      <Time>2013-04-26T11:15:56-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Multiplayer.png</Source>
+      <Name>Images\Multiplayer</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\l231\Desktop\Final_Beta 4\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\Multiplayer.xnb</Output>
+      <Time>2013-04-26T11:15:56-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Multiplayer_Highlighted.png</Source>
+      <Name>Images\Multiplayer_Highlighted</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\l231\Desktop\Final_Beta 4\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\Multiplayer_Highlighted.xnb</Output>
+      <Time>2013-04-26T11:15:56-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Options.png</Source>
+      <Name>Images\Options</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\l231\Desktop\Final_Beta 4\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\Options.xnb</Output>
+      <Time>2013-04-26T11:15:56-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Options_Highlighted.png</Source>
+      <Name>Images\Options_Highlighted</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\l231\Desktop\Final_Beta 4\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\Options_Highlighted.xnb</Output>
+      <Time>2013-04-26T11:15:56-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\DK_Sprint.png</Source>
+      <Name>Images\DK_Sprint</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\l231\Desktop\Final_Beta 4\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\DK_Sprint.xnb</Output>
+      <Time>2013-04-27T20:43:16-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\DK_Jump.png</Source>
+      <Name>Images\DK_Jump</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\l231\Desktop\Final_Beta 4\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\DK_Jump.xnb</Output>
+      <Time>2013-04-27T20:43:50-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\DK_trampoline_SS.png</Source>
+      <Name>Images\DK_trampoline_SS</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\l231\Desktop\Final_Beta 4\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\DK_trampoline_SS.xnb</Output>
+      <Time>2013-04-30T13:10:32-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\P1Life.png</Source>
+      <Name>Images\P1Life</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\l231\Desktop\Final_Beta 4\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\P1Life.xnb</Output>
+      <Time>2013-05-08T13:25:24.5847004-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\DK_Walk.png</Source>
+      <Name>Images\DK_Walk</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\l231\Desktop\Final_Beta 4\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\DK_Walk.xnb</Output>
+      <Time>2013-05-02T19:02:04-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Health_green.png</Source>
+      <Name>Images\Health_green</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\l231\Desktop\Final_Beta 4\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\Health_green.xnb</Output>
+      <Time>2013-05-02T21:38:02-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Health_red.png</Source>
+      <Name>Images\Health_red</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\l231\Desktop\Final_Beta 4\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\Health_red.xnb</Output>
+      <Time>2013-05-02T21:38:02-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Health_orange.png</Source>
+      <Name>Images\Health_orange</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\l231\Desktop\Final_Beta 4\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\Health_orange.xnb</Output>
+      <Time>2013-05-02T22:00:42-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Diddy_Jump.png</Source>
+      <Name>Images\Diddy_Jump</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\l231\Desktop\Final_Beta 4\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\Diddy_Jump.xnb</Output>
+      <Time>2013-05-07T19:32:48-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Diddy_Sprint.png</Source>
+      <Name>Images\Diddy_Sprint</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\l231\Desktop\Final_Beta 4\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\Diddy_Sprint.xnb</Output>
+      <Time>2013-05-07T19:32:48-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Diddy_Walk.png</Source>
+      <Name>Images\Diddy_Walk</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\l231\Desktop\Final_Beta 4\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\Diddy_Walk.xnb</Output>
+      <Time>2013-05-07T19:32:48-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\Hover.wav</Source>
+      <Name>Sound\Hover</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\l231\Desktop\Final_Beta 4\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Sound\Hover.xnb</Output>
+      <Time>2013-04-23T19:37:08-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\TimeText.spritefont</Source>
+      <Name>Fonts\TimeText</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\l231\Desktop\Final_Beta 4\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Fonts\TimeText.xnb</Output>
+      <Time>2013-05-02T18:43:22-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\LiveText.spritefont</Source>
+      <Name>Fonts\LiveText</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\l231\Desktop\Final_Beta 4\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Fonts\LiveText.xnb</Output>
+      <Time>2013-05-03T11:02:00-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Music\BossLoop.mp3</Source>
+      <Name>Music\BossLoop</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\l231\Desktop\Final_Beta 4\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Music\BossLoop.xnb</Output>
+      <Extra>C:\Users\l231\Desktop\Final_Beta 4\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Music\BossLoop.wma</Extra>
+      <Time>2013-05-03T09:29:30-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Music\GameOver.mp3</Source>
+      <Name>Music\GameOver</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\l231\Desktop\Final_Beta 4\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Music\GameOver.xnb</Output>
+      <Extra>C:\Users\l231\Desktop\Final_Beta 4\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Music\GameOver.wma</Extra>
+      <Time>2013-05-03T09:29:30-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Music\MenuLoop.mp3</Source>
+      <Name>Music\MenuLoop</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\l231\Desktop\Final_Beta 4\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Music\MenuLoop.xnb</Output>
+      <Extra>C:\Users\l231\Desktop\Final_Beta 4\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Music\MenuLoop.wma</Extra>
+      <Time>2013-05-03T09:29:30-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Music\MenuStart.mp3</Source>
+      <Name>Music\MenuStart</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\l231\Desktop\Final_Beta 4\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Music\MenuStart.xnb</Output>
+      <Extra>C:\Users\l231\Desktop\Final_Beta 4\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Music\MenuStart.wma</Extra>
+      <Time>2013-05-03T09:29:30-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Music\YouWin.mp3</Source>
+      <Name>Music\YouWin</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\l231\Desktop\Final_Beta 4\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Music\YouWin.xnb</Output>
+      <Extra>C:\Users\l231\Desktop\Final_Beta 4\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Music\YouWin.wma</Extra>
+      <Time>2013-05-03T09:29:30-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\P2Life.png</Source>
+      <Name>Images\P2Life</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\l231\Desktop\Final_Beta 4\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\P2Life.xnb</Output>
+      <Time>2013-05-08T13:25:24.5847004-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\DiddyHurt.wav</Source>
+      <Name>Sound\DiddyHurt</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\l231\Desktop\Final_Beta 4\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Sound\DiddyHurt.xnb</Output>
+      <Time>2013-05-08T15:20:06.8186571-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\DKHurt.wav</Source>
+      <Name>Sound\DKHurt</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\l231\Desktop\Final_Beta 4\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Sound\DKHurt.xnb</Output>
+      <Time>2013-05-08T15:20:06.803057-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\NeckyHurt.wav</Source>
+      <Name>Sound\NeckyHurt</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\l231\Desktop\Final_Beta 4\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Sound\NeckyHurt.xnb</Output>
+      <Time>2013-05-08T15:20:06.8186571-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\TireBig.wav</Source>
+      <Name>Sound\TireBig</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\l231\Desktop\Final_Beta 4\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Sound\TireBig.xnb</Output>
+      <Time>2013-05-08T14:51:54.628709-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\TireSmall.wav</Source>
+      <Name>Sound\TireSmall</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\l231\Desktop\Final_Beta 4\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Sound\TireSmall.xnb</Output>
+      <Time>2013-05-08T14:51:54.625709-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\NeckyShoot.wav</Source>
+      <Name>Sound\NeckyShoot</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\l231\Desktop\Final_Beta 4\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Sound\NeckyShoot.xnb</Output>
+      <Time>2013-05-08T15:20:28.159681-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Diddy_Win.png</Source>
+      <Name>Images\Diddy_Win</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\l231\Desktop\Final_Beta 4\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\Diddy_Win.xnb</Output>
+      <Time>2013-05-08T16:01:49.9667579-04:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{EE9A2571-C22C-4DC1-8EFD-BA9658560378}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\l231\Desktop\Final_Beta 4\Final_Prototype\Final_PrototypeContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\l231\Desktop\Final_Beta 4\Final_Prototype\Final_Prototype\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\l231\Desktop\Final_Beta 4\Final_Prototype\Final_Prototype\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\l231\Desktop\Final_Beta 4\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2012-10-23T12:09:34.5506015-04:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

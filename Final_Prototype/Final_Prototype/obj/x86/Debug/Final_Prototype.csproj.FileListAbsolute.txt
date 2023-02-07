@@ -1,0 +1,665 @@
+C:\Users\l231\Desktop\Final Prototype\Final_Prototype\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\NeckyR.xnb
+C:\Users\l231\Desktop\Final Prototype\Final_Prototype\Final_Prototype\Final_Prototype\bin\x86\Debug\Final_Prototype.exe
+C:\Users\l231\Desktop\Final Prototype\Final_Prototype\Final_Prototype\Final_Prototype\bin\x86\Debug\Final_Prototype.pdb
+C:\Users\l231\Desktop\Final Prototype\Final_Prototype\Final_Prototype\Final_Prototype\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\l231\Desktop\Final Prototype\Final_Prototype\Final_Prototype\Final_Prototype\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\l231\Desktop\Final Prototype\Final_Prototype\Final_Prototype\Final_Prototype\obj\x86\Debug\Final_Prototype.exe
+C:\Users\l231\Desktop\Final Prototype\Final_Prototype\Final_Prototype\Final_Prototype\obj\x86\Debug\Final_Prototype.pdb
+C:\Users\Connor\Desktop\Final Prototype\Final_Prototype\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\NeckyR.xnb
+C:\Users\Connor\Desktop\Final Prototype\Final_Prototype\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\NeckyL.xnb
+C:\Users\Connor\Desktop\Final Prototype\Final_Prototype\Final_Prototype\Final_Prototype\bin\x86\Debug\Final_Prototype.exe
+C:\Users\Connor\Desktop\Final Prototype\Final_Prototype\Final_Prototype\Final_Prototype\bin\x86\Debug\Final_Prototype.pdb
+C:\Users\Connor\Desktop\Final Prototype\Final_Prototype\Final_Prototype\Final_Prototype\obj\x86\Debug\Final_Prototype.csprojResolveAssemblyReference.cache
+C:\Users\Connor\Desktop\Final Prototype\Final_Prototype\Final_Prototype\Final_Prototype\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Connor\Desktop\Final Prototype\Final_Prototype\Final_Prototype\Final_Prototype\obj\x86\Debug\Final_Prototype.exe
+C:\Users\Connor\Desktop\Final Prototype\Final_Prototype\Final_Prototype\Final_Prototype\obj\x86\Debug\Final_Prototype.pdb
+C:\Users\Connor\Desktop\Final Prototype\Final_Prototype\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\NeckyR_Sheet.xnb
+C:\Users\l231\Desktop\Final Prototype02\Final_Prototype\Final_Prototype\Final_Prototype\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\l231\Desktop\Final Prototype02\Final_Prototype\Final_Prototype\Final_Prototype\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\l231\Desktop\Final Prototype02\Final_Prototype\Final_Prototype\Final_Prototype\obj\x86\Debug\Final_Prototype.exe
+C:\Users\l231\Desktop\Final Prototype02\Final_Prototype\Final_Prototype\Final_Prototype\obj\x86\Debug\Final_Prototype.pdb
+C:\Users\l231\Desktop\Final Prototype02\Final_Prototype\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\NeckyR.xnb
+C:\Users\l231\Desktop\Final Prototype02\Final_Prototype\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\NeckyL.xnb
+C:\Users\l231\Desktop\Final Prototype02\Final_Prototype\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\NeckyR_Sheet.xnb
+C:\Users\l231\Desktop\Final Prototype02\Final_Prototype\Final_Prototype\Final_Prototype\bin\x86\Debug\Final_Prototype.exe
+C:\Users\l231\Desktop\Final Prototype02\Final_Prototype\Final_Prototype\Final_Prototype\bin\x86\Debug\Final_Prototype.pdb
+H:\Final_Prototype03\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\NeckyR.xnb
+H:\Final_Prototype03\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\NeckyL.xnb
+H:\Final_Prototype03\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\NeckyR_Sheet.xnb
+H:\Final_Prototype03\Final_Prototype\Final_Prototype\bin\x86\Debug\Final_Prototype.exe
+H:\Final_Prototype03\Final_Prototype\Final_Prototype\bin\x86\Debug\Final_Prototype.pdb
+H:\Final_Prototype03\Final_Prototype\Final_Prototype\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\Final_Prototype03\Final_Prototype\Final_Prototype\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+H:\Final_Prototype03\Final_Prototype\Final_Prototype\obj\x86\Debug\Final_Prototype.exe
+H:\Final_Prototype03\Final_Prototype\Final_Prototype\obj\x86\Debug\Final_Prototype.pdb
+C:\Users\l231\Desktop\Final_Prototype04\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\NeckyR.xnb
+C:\Users\l231\Desktop\Final_Prototype04\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\NeckyL.xnb
+C:\Users\l231\Desktop\Final_Prototype04\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\NeckyR_Sheet.xnb
+C:\Users\l231\Desktop\Final_Prototype04\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\Coconut.xnb
+C:\Users\l231\Desktop\Final_Prototype04\Final_Prototype\Final_Prototype\bin\x86\Debug\Final_Prototype.exe
+C:\Users\l231\Desktop\Final_Prototype04\Final_Prototype\Final_Prototype\bin\x86\Debug\Final_Prototype.pdb
+C:\Users\l231\Desktop\Final_Prototype04\Final_Prototype\Final_Prototype\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\l231\Desktop\Final_Prototype04\Final_Prototype\Final_Prototype\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\l231\Desktop\Final_Prototype04\Final_Prototype\Final_Prototype\obj\x86\Debug\Final_Prototype.exe
+C:\Users\l231\Desktop\Final_Prototype04\Final_Prototype\Final_Prototype\obj\x86\Debug\Final_Prototype.pdb
+C:\Users\Connor\Desktop\Final_Prototype04\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\NeckyR.xnb
+C:\Users\Connor\Desktop\Final_Prototype04\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\NeckyL.xnb
+C:\Users\Connor\Desktop\Final_Prototype04\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\NeckyR_Sheet.xnb
+C:\Users\Connor\Desktop\Final_Prototype04\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\Coconut.xnb
+C:\Users\Connor\Desktop\Final_Prototype04\Final_Prototype\Final_Prototype\bin\x86\Debug\Final_Prototype.exe
+C:\Users\Connor\Desktop\Final_Prototype04\Final_Prototype\Final_Prototype\bin\x86\Debug\Final_Prototype.pdb
+C:\Users\Connor\Desktop\Final_Prototype04\Final_Prototype\Final_Prototype\obj\x86\Debug\Final_Prototype.csprojResolveAssemblyReference.cache
+C:\Users\Connor\Desktop\Final_Prototype04\Final_Prototype\Final_Prototype\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Connor\Desktop\Final_Prototype04\Final_Prototype\Final_Prototype\obj\x86\Debug\Final_Prototype.exe
+C:\Users\Connor\Desktop\Final_Prototype04\Final_Prototype\Final_Prototype\obj\x86\Debug\Final_Prototype.pdb
+C:\Users\Connor\Desktop\Final_Prototype04\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\NeckyL_Sheet.xnb
+C:\Users\Connor\Desktop\Final_Prototype05\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\Coconut.xnb
+C:\Users\Connor\Desktop\Final_Prototype05\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\NeckyR_Sheet.xnb
+C:\Users\Connor\Desktop\Final_Prototype05\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\NeckyL_Sheet.xnb
+C:\Users\Connor\Desktop\Final_Prototype05\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\BossLevelDefault.xnb
+C:\Users\Connor\Desktop\Final_Prototype05\Final_Prototype\Final_Prototype\bin\x86\Debug\Final_Prototype.exe
+C:\Users\Connor\Desktop\Final_Prototype05\Final_Prototype\Final_Prototype\bin\x86\Debug\Final_Prototype.pdb
+C:\Users\Connor\Desktop\Final_Prototype05\Final_Prototype\Final_Prototype\obj\x86\Debug\Final_Prototype.csprojResolveAssemblyReference.cache
+C:\Users\Connor\Desktop\Final_Prototype05\Final_Prototype\Final_Prototype\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Connor\Desktop\Final_Prototype05\Final_Prototype\Final_Prototype\obj\x86\Debug\Final_Prototype.exe
+C:\Users\Connor\Desktop\Final_Prototype05\Final_Prototype\Final_Prototype\obj\x86\Debug\Final_Prototype.pdb
+C:\Users\l231\Desktop\Final_Prototype06\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\Coconut.xnb
+C:\Users\l231\Desktop\Final_Prototype06\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\NeckyR_Sheet.xnb
+C:\Users\l231\Desktop\Final_Prototype06\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\NeckyL_Sheet.xnb
+C:\Users\l231\Desktop\Final_Prototype06\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\BossLevelDefault.xnb
+C:\Users\l231\Desktop\Final_Prototype06\Final_Prototype\Final_Prototype\bin\x86\Debug\Final_Prototype.exe
+C:\Users\l231\Desktop\Final_Prototype06\Final_Prototype\Final_Prototype\bin\x86\Debug\Final_Prototype.pdb
+C:\Users\l231\Desktop\Final_Prototype06\Final_Prototype\Final_Prototype\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\l231\Desktop\Final_Prototype06\Final_Prototype\Final_Prototype\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\l231\Desktop\Final_Prototype06\Final_Prototype\Final_Prototype\obj\x86\Debug\Final_Prototype.exe
+C:\Users\l231\Desktop\Final_Prototype06\Final_Prototype\Final_Prototype\obj\x86\Debug\Final_Prototype.pdb
+C:\Users\Connor\Desktop\Final_Prototype07\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\Coconut.xnb
+C:\Users\Connor\Desktop\Final_Prototype07\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\NeckyR_Sheet.xnb
+C:\Users\Connor\Desktop\Final_Prototype07\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\NeckyL_Sheet.xnb
+C:\Users\Connor\Desktop\Final_Prototype07\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\BossLevelDefault.xnb
+C:\Users\Connor\Desktop\Final_Prototype07\Final_Prototype\Final_Prototype\bin\x86\Debug\Final_Prototype.exe
+C:\Users\Connor\Desktop\Final_Prototype07\Final_Prototype\Final_Prototype\bin\x86\Debug\Final_Prototype.pdb
+C:\Users\Connor\Desktop\Final_Prototype07\Final_Prototype\Final_Prototype\obj\x86\Debug\Final_Prototype.csprojResolveAssemblyReference.cache
+C:\Users\Connor\Desktop\Final_Prototype07\Final_Prototype\Final_Prototype\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Connor\Desktop\Final_Prototype07\Final_Prototype\Final_Prototype\obj\x86\Debug\Final_Prototype.exe
+C:\Users\Connor\Desktop\Final_Prototype07\Final_Prototype\Final_Prototype\obj\x86\Debug\Final_Prototype.pdb
+C:\Users\Connor\Desktop\Final_Prototype07\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\ForegroundDefault.xnb
+G:\Final_Prototype08\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\Coconut.xnb
+G:\Final_Prototype08\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\NeckyR_Sheet.xnb
+G:\Final_Prototype08\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\NeckyL_Sheet.xnb
+G:\Final_Prototype08\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\BossLevelDefault.xnb
+G:\Final_Prototype08\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\ForegroundDefault.xnb
+G:\Final_Prototype08\Final_Prototype\Final_Prototype\bin\x86\Debug\Final_Prototype.exe
+G:\Final_Prototype08\Final_Prototype\Final_Prototype\bin\x86\Debug\Final_Prototype.pdb
+G:\Final_Prototype08\Final_Prototype\Final_Prototype\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Final_Prototype08\Final_Prototype\Final_Prototype\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+G:\Final_Prototype08\Final_Prototype\Final_Prototype\obj\x86\Debug\Final_Prototype.exe
+G:\Final_Prototype08\Final_Prototype\Final_Prototype\obj\x86\Debug\Final_Prototype.pdb
+C:\Users\l231\Desktop\Final_Prototype08\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\Coconut.xnb
+C:\Users\l231\Desktop\Final_Prototype08\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\NeckyR_Sheet.xnb
+C:\Users\l231\Desktop\Final_Prototype08\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\NeckyL_Sheet.xnb
+C:\Users\l231\Desktop\Final_Prototype08\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\BossLevelDefault.xnb
+C:\Users\l231\Desktop\Final_Prototype08\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\ForegroundDefault.xnb
+C:\Users\l231\Desktop\Final_Prototype08\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\Singleplayer.xnb
+C:\Users\l231\Desktop\Final_Prototype08\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\Singleplayer_Highlighted.xnb
+C:\Users\l231\Desktop\Final_Prototype08\Final_Prototype\Final_Prototype\bin\x86\Debug\Final_Prototype.exe
+C:\Users\l231\Desktop\Final_Prototype08\Final_Prototype\Final_Prototype\bin\x86\Debug\Final_Prototype.pdb
+C:\Users\l231\Desktop\Final_Prototype08\Final_Prototype\Final_Prototype\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\l231\Desktop\Final_Prototype08\Final_Prototype\Final_Prototype\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\l231\Desktop\Final_Prototype08\Final_Prototype\Final_Prototype\obj\x86\Debug\Final_Prototype.exe
+C:\Users\l231\Desktop\Final_Prototype08\Final_Prototype\Final_Prototype\obj\x86\Debug\Final_Prototype.pdb
+C:\Users\l231\Desktop\Final_Prototype08\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\MenuBackground.xnb
+C:\Users\Connor\Desktop\Final_Prototype09\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\Coconut.xnb
+C:\Users\Connor\Desktop\Final_Prototype09\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\NeckyR_Sheet.xnb
+C:\Users\Connor\Desktop\Final_Prototype09\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\NeckyL_Sheet.xnb
+C:\Users\Connor\Desktop\Final_Prototype09\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\BossLevelDefault.xnb
+C:\Users\Connor\Desktop\Final_Prototype09\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\ForegroundDefault.xnb
+C:\Users\Connor\Desktop\Final_Prototype09\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\Singleplayer.xnb
+C:\Users\Connor\Desktop\Final_Prototype09\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\Singleplayer_Highlighted.xnb
+C:\Users\Connor\Desktop\Final_Prototype09\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\MenuBackground.xnb
+C:\Users\Connor\Desktop\Final_Prototype09\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Music\MenuTheme.xnb
+C:\Users\Connor\Desktop\Final_Prototype09\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Music\GameTheme.xnb
+C:\Users\Connor\Desktop\Final_Prototype09\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Music\MenuTheme.wma
+C:\Users\Connor\Desktop\Final_Prototype09\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Music\GameTheme.wma
+C:\Users\Connor\Desktop\Final_Prototype09\Final_Prototype\Final_Prototype\bin\x86\Debug\Final_Prototype.exe
+C:\Users\Connor\Desktop\Final_Prototype09\Final_Prototype\Final_Prototype\bin\x86\Debug\Final_Prototype.pdb
+C:\Users\Connor\Desktop\Final_Prototype09\Final_Prototype\Final_Prototype\obj\x86\Debug\Final_Prototype.csprojResolveAssemblyReference.cache
+C:\Users\Connor\Desktop\Final_Prototype09\Final_Prototype\Final_Prototype\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Connor\Desktop\Final_Prototype09\Final_Prototype\Final_Prototype\obj\x86\Debug\Final_Prototype.exe
+C:\Users\Connor\Desktop\Final_Prototype09\Final_Prototype\Final_Prototype\obj\x86\Debug\Final_Prototype.pdb
+C:\Users\Connor\Desktop\Final_Prototype09\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Sound\Hover.xnb
+C:\Users\Connor\Desktop\Final_Prototype10\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\Coconut.xnb
+C:\Users\Connor\Desktop\Final_Prototype10\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\NeckyR_Sheet.xnb
+C:\Users\Connor\Desktop\Final_Prototype10\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\NeckyL_Sheet.xnb
+C:\Users\Connor\Desktop\Final_Prototype10\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\BossLevelDefault.xnb
+C:\Users\Connor\Desktop\Final_Prototype10\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\ForegroundDefault.xnb
+C:\Users\Connor\Desktop\Final_Prototype10\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\Singleplayer.xnb
+C:\Users\Connor\Desktop\Final_Prototype10\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\Singleplayer_Highlighted.xnb
+C:\Users\Connor\Desktop\Final_Prototype10\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\MenuBackground.xnb
+C:\Users\Connor\Desktop\Final_Prototype10\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\Exit.xnb
+C:\Users\Connor\Desktop\Final_Prototype10\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\Exit_Highlighted.xnb
+C:\Users\Connor\Desktop\Final_Prototype10\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\Multiplayer.xnb
+C:\Users\Connor\Desktop\Final_Prototype10\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\Multiplayer_Highlighted.xnb
+C:\Users\Connor\Desktop\Final_Prototype10\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\Options.xnb
+C:\Users\Connor\Desktop\Final_Prototype10\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\Options_Highlighted.xnb
+C:\Users\Connor\Desktop\Final_Prototype10\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Music\MenuTheme.xnb
+C:\Users\Connor\Desktop\Final_Prototype10\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Music\GameTheme.xnb
+C:\Users\Connor\Desktop\Final_Prototype10\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Sound\Hover.xnb
+C:\Users\Connor\Desktop\Final_Prototype10\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Music\MenuTheme.wma
+C:\Users\Connor\Desktop\Final_Prototype10\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Music\GameTheme.wma
+C:\Users\Connor\Desktop\Final_Prototype10\Final_Prototype\Final_Prototype\bin\x86\Debug\Final_Prototype.exe
+C:\Users\Connor\Desktop\Final_Prototype10\Final_Prototype\Final_Prototype\bin\x86\Debug\Final_Prototype.pdb
+C:\Users\Connor\Desktop\Final_Prototype10\Final_Prototype\Final_Prototype\obj\x86\Debug\Final_Prototype.csprojResolveAssemblyReference.cache
+C:\Users\Connor\Desktop\Final_Prototype10\Final_Prototype\Final_Prototype\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Connor\Desktop\Final_Prototype10\Final_Prototype\Final_Prototype\obj\x86\Debug\Final_Prototype.exe
+C:\Users\Connor\Desktop\Final_Prototype10\Final_Prototype\Final_Prototype\obj\x86\Debug\Final_Prototype.pdb
+C:\Users\l231\Desktop\Final_Alpha 01\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\Coconut.xnb
+C:\Users\l231\Desktop\Final_Alpha 01\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\NeckyR_Sheet.xnb
+C:\Users\l231\Desktop\Final_Alpha 01\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\NeckyL_Sheet.xnb
+C:\Users\l231\Desktop\Final_Alpha 01\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\BossLevelDefault.xnb
+C:\Users\l231\Desktop\Final_Alpha 01\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\ForegroundDefault.xnb
+C:\Users\l231\Desktop\Final_Alpha 01\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\Singleplayer.xnb
+C:\Users\l231\Desktop\Final_Alpha 01\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\Singleplayer_Highlighted.xnb
+C:\Users\l231\Desktop\Final_Alpha 01\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\MenuBackground.xnb
+C:\Users\l231\Desktop\Final_Alpha 01\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\Exit.xnb
+C:\Users\l231\Desktop\Final_Alpha 01\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\Exit_Highlighted.xnb
+C:\Users\l231\Desktop\Final_Alpha 01\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\Multiplayer.xnb
+C:\Users\l231\Desktop\Final_Alpha 01\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\Multiplayer_Highlighted.xnb
+C:\Users\l231\Desktop\Final_Alpha 01\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\Options.xnb
+C:\Users\l231\Desktop\Final_Alpha 01\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\Options_Highlighted.xnb
+C:\Users\l231\Desktop\Final_Alpha 01\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Music\MenuTheme.xnb
+C:\Users\l231\Desktop\Final_Alpha 01\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Music\GameTheme.xnb
+C:\Users\l231\Desktop\Final_Alpha 01\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Sound\Hover.xnb
+C:\Users\l231\Desktop\Final_Alpha 01\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Music\MenuTheme.wma
+C:\Users\l231\Desktop\Final_Alpha 01\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Music\GameTheme.wma
+C:\Users\l231\Desktop\Final_Alpha 01\Final_Prototype\Final_Prototype\bin\x86\Debug\Final_Prototype.exe
+C:\Users\l231\Desktop\Final_Alpha 01\Final_Prototype\Final_Prototype\bin\x86\Debug\Final_Prototype.pdb
+C:\Users\l231\Desktop\Final_Alpha 01\Final_Prototype\Final_Prototype\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\l231\Desktop\Final_Alpha 01\Final_Prototype\Final_Prototype\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\l231\Desktop\Final_Alpha 01\Final_Prototype\Final_Prototype\obj\x86\Debug\Final_Prototype.exe
+C:\Users\l231\Desktop\Final_Alpha 01\Final_Prototype\Final_Prototype\obj\x86\Debug\Final_Prototype.pdb
+C:\Users\l231\Desktop\Final_Alpha 01\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\DK_Sprint.xnb
+C:\Users\l231\Desktop\Final_Alpha 01\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\DK_Walk.xnb
+C:\Users\l231\Desktop\Final_Alpha 01\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\DK_Jump.xnb
+C:\Users\l231\Desktop\Final_Alpha 02\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\Coconut.xnb
+C:\Users\l231\Desktop\Final_Alpha 02\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\NeckyR_Sheet.xnb
+C:\Users\l231\Desktop\Final_Alpha 02\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\NeckyL_Sheet.xnb
+C:\Users\l231\Desktop\Final_Alpha 02\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\BossLevelDefault.xnb
+C:\Users\l231\Desktop\Final_Alpha 02\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\ForegroundDefault.xnb
+C:\Users\l231\Desktop\Final_Alpha 02\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\Singleplayer.xnb
+C:\Users\l231\Desktop\Final_Alpha 02\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\Singleplayer_Highlighted.xnb
+C:\Users\l231\Desktop\Final_Alpha 02\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\MenuBackground.xnb
+C:\Users\l231\Desktop\Final_Alpha 02\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\Exit.xnb
+C:\Users\l231\Desktop\Final_Alpha 02\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\Exit_Highlighted.xnb
+C:\Users\l231\Desktop\Final_Alpha 02\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\Multiplayer.xnb
+C:\Users\l231\Desktop\Final_Alpha 02\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\Multiplayer_Highlighted.xnb
+C:\Users\l231\Desktop\Final_Alpha 02\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\Options.xnb
+C:\Users\l231\Desktop\Final_Alpha 02\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\Options_Highlighted.xnb
+C:\Users\l231\Desktop\Final_Alpha 02\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\DK_Sprint.xnb
+C:\Users\l231\Desktop\Final_Alpha 02\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\DK_Walk.xnb
+C:\Users\l231\Desktop\Final_Alpha 02\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\DK_Jump.xnb
+C:\Users\l231\Desktop\Final_Alpha 02\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Music\MenuTheme.xnb
+C:\Users\l231\Desktop\Final_Alpha 02\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Music\GameTheme.xnb
+C:\Users\l231\Desktop\Final_Alpha 02\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Sound\Hover.xnb
+C:\Users\l231\Desktop\Final_Alpha 02\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Music\MenuTheme.wma
+C:\Users\l231\Desktop\Final_Alpha 02\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Music\GameTheme.wma
+C:\Users\l231\Desktop\Final_Alpha 02\Final_Prototype\Final_Prototype\bin\x86\Debug\Final_Prototype.exe
+C:\Users\l231\Desktop\Final_Alpha 02\Final_Prototype\Final_Prototype\bin\x86\Debug\Final_Prototype.pdb
+C:\Users\l231\Desktop\Final_Alpha 02\Final_Prototype\Final_Prototype\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\l231\Desktop\Final_Alpha 02\Final_Prototype\Final_Prototype\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\l231\Desktop\Final_Alpha 02\Final_Prototype\Final_Prototype\obj\x86\Debug\Final_Prototype.exe
+C:\Users\l231\Desktop\Final_Alpha 02\Final_Prototype\Final_Prototype\obj\x86\Debug\Final_Prototype.pdb
+H:\Final_Alpha 03 A\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\Coconut.xnb
+H:\Final_Alpha 03 A\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\NeckyR_Sheet.xnb
+H:\Final_Alpha 03 A\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\NeckyL_Sheet.xnb
+H:\Final_Alpha 03 A\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\BossLevelDefault.xnb
+H:\Final_Alpha 03 A\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\ForegroundDefault.xnb
+H:\Final_Alpha 03 A\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\Singleplayer.xnb
+H:\Final_Alpha 03 A\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\Singleplayer_Highlighted.xnb
+H:\Final_Alpha 03 A\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\MenuBackground.xnb
+H:\Final_Alpha 03 A\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\Exit.xnb
+H:\Final_Alpha 03 A\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\Exit_Highlighted.xnb
+H:\Final_Alpha 03 A\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\Multiplayer.xnb
+H:\Final_Alpha 03 A\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\Multiplayer_Highlighted.xnb
+H:\Final_Alpha 03 A\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\Options.xnb
+H:\Final_Alpha 03 A\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\Options_Highlighted.xnb
+H:\Final_Alpha 03 A\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\DK_Sprint.xnb
+H:\Final_Alpha 03 A\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\DK_Walk.xnb
+H:\Final_Alpha 03 A\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\DK_Jump.xnb
+H:\Final_Alpha 03 A\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Music\MenuTheme.xnb
+H:\Final_Alpha 03 A\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Music\GameTheme.xnb
+H:\Final_Alpha 03 A\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Sound\Hover.xnb
+H:\Final_Alpha 03 A\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Music\MenuTheme.wma
+H:\Final_Alpha 03 A\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Music\GameTheme.wma
+H:\Final_Alpha 03 A\Final_Prototype\Final_Prototype\bin\x86\Debug\Final_Prototype.exe
+H:\Final_Alpha 03 A\Final_Prototype\Final_Prototype\bin\x86\Debug\Final_Prototype.pdb
+H:\Final_Alpha 03 A\Final_Prototype\Final_Prototype\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\Final_Alpha 03 A\Final_Prototype\Final_Prototype\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+H:\Final_Alpha 03 A\Final_Prototype\Final_Prototype\obj\x86\Debug\Final_Prototype.exe
+H:\Final_Alpha 03 A\Final_Prototype\Final_Prototype\obj\x86\Debug\Final_Prototype.pdb
+H:\Final_Alpha 04 A\Final_Prototype\Final_Prototype\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\Final_Alpha 04 A\Final_Prototype\Final_Prototype\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+H:\Final_Alpha 04 A\Final_Prototype\Final_Prototype\obj\x86\Debug\Final_Prototype.exe
+H:\Final_Alpha 04 A\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\Coconut.xnb
+H:\Final_Alpha 04 A\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\NeckyR_Sheet.xnb
+H:\Final_Alpha 04 A\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\NeckyL_Sheet.xnb
+H:\Final_Alpha 04 A\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\BossLevelDefault.xnb
+H:\Final_Alpha 04 A\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\ForegroundDefault.xnb
+H:\Final_Alpha 04 A\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\Singleplayer.xnb
+H:\Final_Alpha 04 A\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\Singleplayer_Highlighted.xnb
+H:\Final_Alpha 04 A\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\MenuBackground.xnb
+H:\Final_Alpha 04 A\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\Exit.xnb
+H:\Final_Alpha 04 A\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\Exit_Highlighted.xnb
+H:\Final_Alpha 04 A\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\Multiplayer.xnb
+H:\Final_Alpha 04 A\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\Multiplayer_Highlighted.xnb
+H:\Final_Alpha 04 A\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\Options.xnb
+H:\Final_Alpha 04 A\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\Options_Highlighted.xnb
+H:\Final_Alpha 04 A\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\DK_Sprint.xnb
+H:\Final_Alpha 04 A\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\DK_Walk.xnb
+H:\Final_Alpha 04 A\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\DK_Jump.xnb
+H:\Final_Alpha 04 A\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Music\MenuTheme.xnb
+H:\Final_Alpha 04 A\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Music\GameTheme.xnb
+H:\Final_Alpha 04 A\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Sound\Hover.xnb
+H:\Final_Alpha 04 A\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Music\MenuTheme.wma
+H:\Final_Alpha 04 A\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Music\GameTheme.wma
+H:\Final_Alpha 04 A\Final_Prototype\Final_Prototype\bin\x86\Debug\Final_Prototype.exe
+H:\Final_Alpha 04 A\Final_Prototype\Final_Prototype\bin\x86\Debug\Final_Prototype.pdb
+H:\Final_Alpha 04 A\Final_Prototype\Final_Prototype\obj\x86\Debug\Final_Prototype.pdb
+H:\Final_Alpha 04 A\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\DK_trampoline_SS.xnb
+H:\AGGP\AG131\zFinal\Final_Alpha 05 A\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\Coconut.xnb
+H:\AGGP\AG131\zFinal\Final_Alpha 05 A\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\NeckyR_Sheet.xnb
+H:\AGGP\AG131\zFinal\Final_Alpha 05 A\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\NeckyL_Sheet.xnb
+H:\AGGP\AG131\zFinal\Final_Alpha 05 A\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\BossLevelDefault.xnb
+H:\AGGP\AG131\zFinal\Final_Alpha 05 A\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\ForegroundDefault.xnb
+H:\AGGP\AG131\zFinal\Final_Alpha 05 A\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\Singleplayer.xnb
+H:\AGGP\AG131\zFinal\Final_Alpha 05 A\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\Singleplayer_Highlighted.xnb
+H:\AGGP\AG131\zFinal\Final_Alpha 05 A\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\MenuBackground.xnb
+H:\AGGP\AG131\zFinal\Final_Alpha 05 A\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\Exit.xnb
+H:\AGGP\AG131\zFinal\Final_Alpha 05 A\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\Exit_Highlighted.xnb
+H:\AGGP\AG131\zFinal\Final_Alpha 05 A\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\Multiplayer.xnb
+H:\AGGP\AG131\zFinal\Final_Alpha 05 A\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\Multiplayer_Highlighted.xnb
+H:\AGGP\AG131\zFinal\Final_Alpha 05 A\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\Options.xnb
+H:\AGGP\AG131\zFinal\Final_Alpha 05 A\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\Options_Highlighted.xnb
+H:\AGGP\AG131\zFinal\Final_Alpha 05 A\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\DK_Sprint.xnb
+H:\AGGP\AG131\zFinal\Final_Alpha 05 A\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\DK_Walk.xnb
+H:\AGGP\AG131\zFinal\Final_Alpha 05 A\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\DK_Jump.xnb
+H:\AGGP\AG131\zFinal\Final_Alpha 05 A\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\DK_trampoline_SS.xnb
+H:\AGGP\AG131\zFinal\Final_Alpha 05 A\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Music\MenuTheme.xnb
+H:\AGGP\AG131\zFinal\Final_Alpha 05 A\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Music\GameTheme.xnb
+H:\AGGP\AG131\zFinal\Final_Alpha 05 A\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Sound\Hover.xnb
+H:\AGGP\AG131\zFinal\Final_Alpha 05 A\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Music\MenuTheme.wma
+H:\AGGP\AG131\zFinal\Final_Alpha 05 A\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Music\GameTheme.wma
+H:\AGGP\AG131\zFinal\Final_Alpha 05 A\Final_Prototype\Final_Prototype\bin\x86\Debug\Final_Prototype.exe
+H:\AGGP\AG131\zFinal\Final_Alpha 05 A\Final_Prototype\Final_Prototype\bin\x86\Debug\Final_Prototype.pdb
+H:\AGGP\AG131\zFinal\Final_Alpha 05 A\Final_Prototype\Final_Prototype\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\AGGP\AG131\zFinal\Final_Alpha 05 A\Final_Prototype\Final_Prototype\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+H:\AGGP\AG131\zFinal\Final_Alpha 05 A\Final_Prototype\Final_Prototype\obj\x86\Debug\Final_Prototype.exe
+H:\AGGP\AG131\zFinal\Final_Alpha 05 A\Final_Prototype\Final_Prototype\obj\x86\Debug\Final_Prototype.pdb
+H:\AGGP\AG131\zFinal\Final_Alpha 05 A\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\P1Life.xnb
+C:\Users\l231\Desktop\Final_Alpha 05 B\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\Coconut.xnb
+C:\Users\l231\Desktop\Final_Alpha 05 B\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\NeckyR_Sheet.xnb
+C:\Users\l231\Desktop\Final_Alpha 05 B\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\NeckyL_Sheet.xnb
+C:\Users\l231\Desktop\Final_Alpha 05 B\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\BossLevelDefault.xnb
+C:\Users\l231\Desktop\Final_Alpha 05 B\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\ForegroundDefault.xnb
+C:\Users\l231\Desktop\Final_Alpha 05 B\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\Singleplayer.xnb
+C:\Users\l231\Desktop\Final_Alpha 05 B\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\Singleplayer_Highlighted.xnb
+C:\Users\l231\Desktop\Final_Alpha 05 B\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\MenuBackground.xnb
+C:\Users\l231\Desktop\Final_Alpha 05 B\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\Exit.xnb
+C:\Users\l231\Desktop\Final_Alpha 05 B\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\Exit_Highlighted.xnb
+C:\Users\l231\Desktop\Final_Alpha 05 B\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\Multiplayer.xnb
+C:\Users\l231\Desktop\Final_Alpha 05 B\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\Multiplayer_Highlighted.xnb
+C:\Users\l231\Desktop\Final_Alpha 05 B\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\Options.xnb
+C:\Users\l231\Desktop\Final_Alpha 05 B\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\Options_Highlighted.xnb
+C:\Users\l231\Desktop\Final_Alpha 05 B\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\DK_Sprint.xnb
+C:\Users\l231\Desktop\Final_Alpha 05 B\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\DK_Walk.xnb
+C:\Users\l231\Desktop\Final_Alpha 05 B\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\DK_Jump.xnb
+C:\Users\l231\Desktop\Final_Alpha 05 B\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\DK_trampoline_SS.xnb
+C:\Users\l231\Desktop\Final_Alpha 05 B\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\P1Life.xnb
+C:\Users\l231\Desktop\Final_Alpha 05 B\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Music\MenuTheme.xnb
+C:\Users\l231\Desktop\Final_Alpha 05 B\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Music\GameTheme.xnb
+C:\Users\l231\Desktop\Final_Alpha 05 B\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Sound\Hover.xnb
+C:\Users\l231\Desktop\Final_Alpha 05 B\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Music\MenuTheme.wma
+C:\Users\l231\Desktop\Final_Alpha 05 B\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Music\GameTheme.wma
+C:\Users\l231\Desktop\Final_Alpha 05 B\Final_Prototype\Final_Prototype\bin\x86\Debug\Final_Prototype.exe
+C:\Users\l231\Desktop\Final_Alpha 05 B\Final_Prototype\Final_Prototype\bin\x86\Debug\Final_Prototype.pdb
+C:\Users\l231\Desktop\Final_Alpha 05 B\Final_Prototype\Final_Prototype\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\l231\Desktop\Final_Alpha 05 B\Final_Prototype\Final_Prototype\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\l231\Desktop\Final_Alpha 05 B\Final_Prototype\Final_Prototype\obj\x86\Debug\Final_Prototype.exe
+C:\Users\l231\Desktop\Final_Alpha 05 B\Final_Prototype\Final_Prototype\obj\x86\Debug\Final_Prototype.pdb
+C:\Users\l231\Desktop\Final_Alpha 05 B\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\TimeText.xnb
+H:\AGGP\AG131\zFinal\Final_Alpha 06 A\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\Coconut.xnb
+H:\AGGP\AG131\zFinal\Final_Alpha 06 A\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\NeckyR_Sheet.xnb
+H:\AGGP\AG131\zFinal\Final_Alpha 06 A\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\NeckyL_Sheet.xnb
+H:\AGGP\AG131\zFinal\Final_Alpha 06 A\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\BossLevelDefault.xnb
+H:\AGGP\AG131\zFinal\Final_Alpha 06 A\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\ForegroundDefault.xnb
+H:\AGGP\AG131\zFinal\Final_Alpha 06 A\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\Singleplayer.xnb
+H:\AGGP\AG131\zFinal\Final_Alpha 06 A\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\Singleplayer_Highlighted.xnb
+H:\AGGP\AG131\zFinal\Final_Alpha 06 A\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\MenuBackground.xnb
+H:\AGGP\AG131\zFinal\Final_Alpha 06 A\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\Exit.xnb
+H:\AGGP\AG131\zFinal\Final_Alpha 06 A\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\Exit_Highlighted.xnb
+H:\AGGP\AG131\zFinal\Final_Alpha 06 A\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\Multiplayer.xnb
+H:\AGGP\AG131\zFinal\Final_Alpha 06 A\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\Multiplayer_Highlighted.xnb
+H:\AGGP\AG131\zFinal\Final_Alpha 06 A\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\Options.xnb
+H:\AGGP\AG131\zFinal\Final_Alpha 06 A\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\Options_Highlighted.xnb
+H:\AGGP\AG131\zFinal\Final_Alpha 06 A\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\DK_Sprint.xnb
+H:\AGGP\AG131\zFinal\Final_Alpha 06 A\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\DK_Walk.xnb
+H:\AGGP\AG131\zFinal\Final_Alpha 06 A\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\DK_Jump.xnb
+H:\AGGP\AG131\zFinal\Final_Alpha 06 A\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\DK_trampoline_SS.xnb
+H:\AGGP\AG131\zFinal\Final_Alpha 06 A\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\P1Life.xnb
+H:\AGGP\AG131\zFinal\Final_Alpha 06 A\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Music\MenuTheme.xnb
+H:\AGGP\AG131\zFinal\Final_Alpha 06 A\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Music\GameTheme.xnb
+H:\AGGP\AG131\zFinal\Final_Alpha 06 A\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Sound\Hover.xnb
+H:\AGGP\AG131\zFinal\Final_Alpha 06 A\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Fonts\TimeText.xnb
+H:\AGGP\AG131\zFinal\Final_Alpha 06 A\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Music\MenuTheme.wma
+H:\AGGP\AG131\zFinal\Final_Alpha 06 A\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Music\GameTheme.wma
+H:\AGGP\AG131\zFinal\Final_Alpha 06 A\Final_Prototype\Final_Prototype\bin\x86\Debug\Final_Prototype.exe
+H:\AGGP\AG131\zFinal\Final_Alpha 06 A\Final_Prototype\Final_Prototype\bin\x86\Debug\Final_Prototype.pdb
+H:\AGGP\AG131\zFinal\Final_Alpha 06 A\Final_Prototype\Final_Prototype\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\AGGP\AG131\zFinal\Final_Alpha 06 A\Final_Prototype\Final_Prototype\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+H:\AGGP\AG131\zFinal\Final_Alpha 06 A\Final_Prototype\Final_Prototype\obj\x86\Debug\Final_Prototype.exe
+H:\AGGP\AG131\zFinal\Final_Alpha 06 A\Final_Prototype\Final_Prototype\obj\x86\Debug\Final_Prototype.pdb
+H:\AGGP\AG131\zFinal\Final_Alpha 06 A\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Fonts\LiveText.xnb
+H:\AGGP\AG131\zFinal\Final_Alpha 06 A\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\Health_green.xnb
+H:\AGGP\AG131\zFinal\Final_Alpha 06 A\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\Health_red.xnb
+H:\AGGP\AG131\zFinal\Final_Alpha 06 A\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\Health_orange.xnb
+C:\Users\Connor\Desktop\Final_Alpha 06 B\Final_Prototype\Final_Prototype\obj\x86\Debug\Final_Prototype.exe
+C:\Users\Connor\Desktop\Final_Alpha 06 B\Final_Prototype\Final_Prototype\obj\x86\Debug\Final_Prototype.pdb
+C:\Users\Connor\Desktop\Final_Alpha 06 B\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\Coconut.xnb
+C:\Users\Connor\Desktop\Final_Alpha 06 B\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\NeckyR_Sheet.xnb
+C:\Users\Connor\Desktop\Final_Alpha 06 B\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\NeckyL_Sheet.xnb
+C:\Users\Connor\Desktop\Final_Alpha 06 B\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\BossLevelDefault.xnb
+C:\Users\Connor\Desktop\Final_Alpha 06 B\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\ForegroundDefault.xnb
+C:\Users\Connor\Desktop\Final_Alpha 06 B\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\Singleplayer.xnb
+C:\Users\Connor\Desktop\Final_Alpha 06 B\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\Singleplayer_Highlighted.xnb
+C:\Users\Connor\Desktop\Final_Alpha 06 B\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\MenuBackground.xnb
+C:\Users\Connor\Desktop\Final_Alpha 06 B\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\Exit.xnb
+C:\Users\Connor\Desktop\Final_Alpha 06 B\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\Exit_Highlighted.xnb
+C:\Users\Connor\Desktop\Final_Alpha 06 B\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\Multiplayer.xnb
+C:\Users\Connor\Desktop\Final_Alpha 06 B\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\Multiplayer_Highlighted.xnb
+C:\Users\Connor\Desktop\Final_Alpha 06 B\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\Options.xnb
+C:\Users\Connor\Desktop\Final_Alpha 06 B\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\Options_Highlighted.xnb
+C:\Users\Connor\Desktop\Final_Alpha 06 B\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\DK_Sprint.xnb
+C:\Users\Connor\Desktop\Final_Alpha 06 B\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\DK_Jump.xnb
+C:\Users\Connor\Desktop\Final_Alpha 06 B\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\DK_trampoline_SS.xnb
+C:\Users\Connor\Desktop\Final_Alpha 06 B\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\P1Life.xnb
+C:\Users\Connor\Desktop\Final_Alpha 06 B\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\DK_Walk.xnb
+C:\Users\Connor\Desktop\Final_Alpha 06 B\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\Health_green.xnb
+C:\Users\Connor\Desktop\Final_Alpha 06 B\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\Health_red.xnb
+C:\Users\Connor\Desktop\Final_Alpha 06 B\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\Health_orange.xnb
+C:\Users\Connor\Desktop\Final_Alpha 06 B\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Sound\Hover.xnb
+C:\Users\Connor\Desktop\Final_Alpha 06 B\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Fonts\TimeText.xnb
+C:\Users\Connor\Desktop\Final_Alpha 06 B\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Fonts\LiveText.xnb
+C:\Users\Connor\Desktop\Final_Alpha 06 B\Final_Prototype\Final_Prototype\bin\x86\Debug\Final_Prototype.exe
+C:\Users\Connor\Desktop\Final_Alpha 06 B\Final_Prototype\Final_Prototype\bin\x86\Debug\Final_Prototype.pdb
+C:\Users\Connor\Desktop\Final_Alpha 06 B\Final_Prototype\Final_Prototype\obj\x86\Debug\Final_Prototype.csprojResolveAssemblyReference.cache
+C:\Users\Connor\Desktop\Final_Alpha 06 B\Final_Prototype\Final_Prototype\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Connor\Desktop\Final_Alpha 06 B\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Music\BossLoop.xnb
+C:\Users\Connor\Desktop\Final_Alpha 06 B\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Music\GameOver.xnb
+C:\Users\Connor\Desktop\Final_Alpha 06 B\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Music\MenuLoop.xnb
+C:\Users\Connor\Desktop\Final_Alpha 06 B\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Music\MenuStart.xnb
+C:\Users\Connor\Desktop\Final_Alpha 06 B\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Music\YouWin.xnb
+C:\Users\Connor\Desktop\Final_Alpha 06 B\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Music\BossLoop.wma
+C:\Users\Connor\Desktop\Final_Alpha 06 B\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Music\GameOver.wma
+C:\Users\Connor\Desktop\Final_Alpha 06 B\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Music\MenuLoop.wma
+C:\Users\Connor\Desktop\Final_Alpha 06 B\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Music\MenuStart.wma
+C:\Users\Connor\Desktop\Final_Alpha 06 B\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Music\YouWin.wma
+C:\Users\l231\Desktop\Final_Alpha 07 A\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\Coconut.xnb
+C:\Users\l231\Desktop\Final_Alpha 07 A\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\NeckyR_Sheet.xnb
+C:\Users\l231\Desktop\Final_Alpha 07 A\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\NeckyL_Sheet.xnb
+C:\Users\l231\Desktop\Final_Alpha 07 A\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\BossLevelDefault.xnb
+C:\Users\l231\Desktop\Final_Alpha 07 A\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\ForegroundDefault.xnb
+C:\Users\l231\Desktop\Final_Alpha 07 A\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\Singleplayer.xnb
+C:\Users\l231\Desktop\Final_Alpha 07 A\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\Singleplayer_Highlighted.xnb
+C:\Users\l231\Desktop\Final_Alpha 07 A\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\MenuBackground.xnb
+C:\Users\l231\Desktop\Final_Alpha 07 A\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\Exit.xnb
+C:\Users\l231\Desktop\Final_Alpha 07 A\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\Exit_Highlighted.xnb
+C:\Users\l231\Desktop\Final_Alpha 07 A\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\Multiplayer.xnb
+C:\Users\l231\Desktop\Final_Alpha 07 A\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\Multiplayer_Highlighted.xnb
+C:\Users\l231\Desktop\Final_Alpha 07 A\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\Options.xnb
+C:\Users\l231\Desktop\Final_Alpha 07 A\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\Options_Highlighted.xnb
+C:\Users\l231\Desktop\Final_Alpha 07 A\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\DK_Sprint.xnb
+C:\Users\l231\Desktop\Final_Alpha 07 A\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\DK_Jump.xnb
+C:\Users\l231\Desktop\Final_Alpha 07 A\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\DK_trampoline_SS.xnb
+C:\Users\l231\Desktop\Final_Alpha 07 A\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\P1Life.xnb
+C:\Users\l231\Desktop\Final_Alpha 07 A\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\DK_Walk.xnb
+C:\Users\l231\Desktop\Final_Alpha 07 A\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\Health_green.xnb
+C:\Users\l231\Desktop\Final_Alpha 07 A\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\Health_red.xnb
+C:\Users\l231\Desktop\Final_Alpha 07 A\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\Health_orange.xnb
+C:\Users\l231\Desktop\Final_Alpha 07 A\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Sound\Hover.xnb
+C:\Users\l231\Desktop\Final_Alpha 07 A\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Fonts\TimeText.xnb
+C:\Users\l231\Desktop\Final_Alpha 07 A\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Fonts\LiveText.xnb
+C:\Users\l231\Desktop\Final_Alpha 07 A\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Music\BossLoop.xnb
+C:\Users\l231\Desktop\Final_Alpha 07 A\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Music\GameOver.xnb
+C:\Users\l231\Desktop\Final_Alpha 07 A\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Music\MenuLoop.xnb
+C:\Users\l231\Desktop\Final_Alpha 07 A\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Music\MenuStart.xnb
+C:\Users\l231\Desktop\Final_Alpha 07 A\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Music\YouWin.xnb
+C:\Users\l231\Desktop\Final_Alpha 07 A\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Music\BossLoop.wma
+C:\Users\l231\Desktop\Final_Alpha 07 A\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Music\GameOver.wma
+C:\Users\l231\Desktop\Final_Alpha 07 A\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Music\MenuLoop.wma
+C:\Users\l231\Desktop\Final_Alpha 07 A\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Music\MenuStart.wma
+C:\Users\l231\Desktop\Final_Alpha 07 A\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Music\YouWin.wma
+C:\Users\l231\Desktop\Final_Alpha 07 A\Final_Prototype\Final_Prototype\bin\x86\Debug\Final_Prototype.exe
+C:\Users\l231\Desktop\Final_Alpha 07 A\Final_Prototype\Final_Prototype\bin\x86\Debug\Final_Prototype.pdb
+C:\Users\l231\Desktop\Final_Alpha 07 A\Final_Prototype\Final_Prototype\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\l231\Desktop\Final_Alpha 07 A\Final_Prototype\Final_Prototype\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\l231\Desktop\Final_Alpha 07 A\Final_Prototype\Final_Prototype\obj\x86\Debug\Final_Prototype.exe
+C:\Users\l231\Desktop\Final_Alpha 07 A\Final_Prototype\Final_Prototype\obj\x86\Debug\Final_Prototype.pdb
+H:\Final_Alpha 08 A\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\Coconut.xnb
+H:\Final_Alpha 08 A\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\NeckyR_Sheet.xnb
+H:\Final_Alpha 08 A\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\NeckyL_Sheet.xnb
+H:\Final_Alpha 08 A\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\BossLevelDefault.xnb
+H:\Final_Alpha 08 A\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\ForegroundDefault.xnb
+H:\Final_Alpha 08 A\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\Singleplayer.xnb
+H:\Final_Alpha 08 A\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\Singleplayer_Highlighted.xnb
+H:\Final_Alpha 08 A\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\MenuBackground.xnb
+H:\Final_Alpha 08 A\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\Exit.xnb
+H:\Final_Alpha 08 A\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\Exit_Highlighted.xnb
+H:\Final_Alpha 08 A\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\Multiplayer.xnb
+H:\Final_Alpha 08 A\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\Multiplayer_Highlighted.xnb
+H:\Final_Alpha 08 A\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\Options.xnb
+H:\Final_Alpha 08 A\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\Options_Highlighted.xnb
+H:\Final_Alpha 08 A\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\DK_Sprint.xnb
+H:\Final_Alpha 08 A\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\DK_Jump.xnb
+H:\Final_Alpha 08 A\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\DK_trampoline_SS.xnb
+H:\Final_Alpha 08 A\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\P1Life.xnb
+H:\Final_Alpha 08 A\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\DK_Walk.xnb
+H:\Final_Alpha 08 A\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\Health_green.xnb
+H:\Final_Alpha 08 A\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\Health_red.xnb
+H:\Final_Alpha 08 A\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\Health_orange.xnb
+H:\Final_Alpha 08 A\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Sound\Hover.xnb
+H:\Final_Alpha 08 A\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Fonts\TimeText.xnb
+H:\Final_Alpha 08 A\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Fonts\LiveText.xnb
+H:\Final_Alpha 08 A\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Music\BossLoop.xnb
+H:\Final_Alpha 08 A\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Music\GameOver.xnb
+H:\Final_Alpha 08 A\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Music\MenuLoop.xnb
+H:\Final_Alpha 08 A\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Music\MenuStart.xnb
+H:\Final_Alpha 08 A\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Music\YouWin.xnb
+H:\Final_Alpha 08 A\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Music\BossLoop.wma
+H:\Final_Alpha 08 A\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Music\GameOver.wma
+H:\Final_Alpha 08 A\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Music\MenuLoop.wma
+H:\Final_Alpha 08 A\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Music\MenuStart.wma
+H:\Final_Alpha 08 A\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Music\YouWin.wma
+H:\Final_Alpha 08 A\Final_Prototype\Final_Prototype\bin\x86\Debug\Final_Prototype.exe
+H:\Final_Alpha 08 A\Final_Prototype\Final_Prototype\bin\x86\Debug\Final_Prototype.pdb
+H:\Final_Alpha 08 A\Final_Prototype\Final_Prototype\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\Final_Alpha 08 A\Final_Prototype\Final_Prototype\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+H:\Final_Alpha 08 A\Final_Prototype\Final_Prototype\obj\x86\Debug\Final_Prototype.exe
+H:\Final_Alpha 08 A\Final_Prototype\Final_Prototype\obj\x86\Debug\Final_Prototype.pdb
+C:\Users\l231\Desktop\Final_Beta 1\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\Coconut.xnb
+C:\Users\l231\Desktop\Final_Beta 1\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\NeckyR_Sheet.xnb
+C:\Users\l231\Desktop\Final_Beta 1\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\NeckyL_Sheet.xnb
+C:\Users\l231\Desktop\Final_Beta 1\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\BossLevelDefault.xnb
+C:\Users\l231\Desktop\Final_Beta 1\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\ForegroundDefault.xnb
+C:\Users\l231\Desktop\Final_Beta 1\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\Singleplayer.xnb
+C:\Users\l231\Desktop\Final_Beta 1\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\Singleplayer_Highlighted.xnb
+C:\Users\l231\Desktop\Final_Beta 1\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\MenuBackground.xnb
+C:\Users\l231\Desktop\Final_Beta 1\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\Exit.xnb
+C:\Users\l231\Desktop\Final_Beta 1\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\Exit_Highlighted.xnb
+C:\Users\l231\Desktop\Final_Beta 1\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\Multiplayer.xnb
+C:\Users\l231\Desktop\Final_Beta 1\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\Multiplayer_Highlighted.xnb
+C:\Users\l231\Desktop\Final_Beta 1\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\Options.xnb
+C:\Users\l231\Desktop\Final_Beta 1\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\Options_Highlighted.xnb
+C:\Users\l231\Desktop\Final_Beta 1\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\DK_Sprint.xnb
+C:\Users\l231\Desktop\Final_Beta 1\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\DK_Jump.xnb
+C:\Users\l231\Desktop\Final_Beta 1\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\DK_trampoline_SS.xnb
+C:\Users\l231\Desktop\Final_Beta 1\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\P1Life.xnb
+C:\Users\l231\Desktop\Final_Beta 1\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\DK_Walk.xnb
+C:\Users\l231\Desktop\Final_Beta 1\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\Health_green.xnb
+C:\Users\l231\Desktop\Final_Beta 1\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\Health_red.xnb
+C:\Users\l231\Desktop\Final_Beta 1\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\Health_orange.xnb
+C:\Users\l231\Desktop\Final_Beta 1\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Sound\Hover.xnb
+C:\Users\l231\Desktop\Final_Beta 1\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Fonts\TimeText.xnb
+C:\Users\l231\Desktop\Final_Beta 1\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Fonts\LiveText.xnb
+C:\Users\l231\Desktop\Final_Beta 1\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Music\BossLoop.xnb
+C:\Users\l231\Desktop\Final_Beta 1\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Music\GameOver.xnb
+C:\Users\l231\Desktop\Final_Beta 1\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Music\MenuLoop.xnb
+C:\Users\l231\Desktop\Final_Beta 1\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Music\MenuStart.xnb
+C:\Users\l231\Desktop\Final_Beta 1\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Music\YouWin.xnb
+C:\Users\l231\Desktop\Final_Beta 1\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Music\BossLoop.wma
+C:\Users\l231\Desktop\Final_Beta 1\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Music\GameOver.wma
+C:\Users\l231\Desktop\Final_Beta 1\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Music\MenuLoop.wma
+C:\Users\l231\Desktop\Final_Beta 1\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Music\MenuStart.wma
+C:\Users\l231\Desktop\Final_Beta 1\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Music\YouWin.wma
+C:\Users\l231\Desktop\Final_Beta 1\Final_Prototype\Final_Prototype\bin\x86\Debug\Final_Prototype.exe
+C:\Users\l231\Desktop\Final_Beta 1\Final_Prototype\Final_Prototype\bin\x86\Debug\Final_Prototype.pdb
+C:\Users\l231\Desktop\Final_Beta 1\Final_Prototype\Final_Prototype\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\l231\Desktop\Final_Beta 1\Final_Prototype\Final_Prototype\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\l231\Desktop\Final_Beta 1\Final_Prototype\Final_Prototype\obj\x86\Debug\Final_Prototype.exe
+C:\Users\l231\Desktop\Final_Beta 1\Final_Prototype\Final_Prototype\obj\x86\Debug\Final_Prototype.pdb
+C:\Users\l231\Desktop\Final_Beta 2\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\Coconut.xnb
+C:\Users\l231\Desktop\Final_Beta 2\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\NeckyR_Sheet.xnb
+C:\Users\l231\Desktop\Final_Beta 2\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\NeckyL_Sheet.xnb
+C:\Users\l231\Desktop\Final_Beta 2\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\BossLevelDefault.xnb
+C:\Users\l231\Desktop\Final_Beta 2\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\ForegroundDefault.xnb
+C:\Users\l231\Desktop\Final_Beta 2\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\Singleplayer.xnb
+C:\Users\l231\Desktop\Final_Beta 2\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\Singleplayer_Highlighted.xnb
+C:\Users\l231\Desktop\Final_Beta 2\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\MenuBackground.xnb
+C:\Users\l231\Desktop\Final_Beta 2\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\Exit.xnb
+C:\Users\l231\Desktop\Final_Beta 2\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\Exit_Highlighted.xnb
+C:\Users\l231\Desktop\Final_Beta 2\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\Multiplayer.xnb
+C:\Users\l231\Desktop\Final_Beta 2\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\Multiplayer_Highlighted.xnb
+C:\Users\l231\Desktop\Final_Beta 2\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\Options.xnb
+C:\Users\l231\Desktop\Final_Beta 2\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\Options_Highlighted.xnb
+C:\Users\l231\Desktop\Final_Beta 2\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\DK_Sprint.xnb
+C:\Users\l231\Desktop\Final_Beta 2\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\DK_Jump.xnb
+C:\Users\l231\Desktop\Final_Beta 2\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\DK_trampoline_SS.xnb
+C:\Users\l231\Desktop\Final_Beta 2\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\P1Life.xnb
+C:\Users\l231\Desktop\Final_Beta 2\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\DK_Walk.xnb
+C:\Users\l231\Desktop\Final_Beta 2\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\Health_green.xnb
+C:\Users\l231\Desktop\Final_Beta 2\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\Health_red.xnb
+C:\Users\l231\Desktop\Final_Beta 2\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\Health_orange.xnb
+C:\Users\l231\Desktop\Final_Beta 2\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Sound\Hover.xnb
+C:\Users\l231\Desktop\Final_Beta 2\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Fonts\TimeText.xnb
+C:\Users\l231\Desktop\Final_Beta 2\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Fonts\LiveText.xnb
+C:\Users\l231\Desktop\Final_Beta 2\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Music\BossLoop.xnb
+C:\Users\l231\Desktop\Final_Beta 2\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Music\GameOver.xnb
+C:\Users\l231\Desktop\Final_Beta 2\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Music\MenuLoop.xnb
+C:\Users\l231\Desktop\Final_Beta 2\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Music\MenuStart.xnb
+C:\Users\l231\Desktop\Final_Beta 2\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Music\YouWin.xnb
+C:\Users\l231\Desktop\Final_Beta 2\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Music\BossLoop.wma
+C:\Users\l231\Desktop\Final_Beta 2\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Music\GameOver.wma
+C:\Users\l231\Desktop\Final_Beta 2\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Music\MenuLoop.wma
+C:\Users\l231\Desktop\Final_Beta 2\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Music\MenuStart.wma
+C:\Users\l231\Desktop\Final_Beta 2\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Music\YouWin.wma
+C:\Users\l231\Desktop\Final_Beta 2\Final_Prototype\Final_Prototype\bin\x86\Debug\Final_Prototype.exe
+C:\Users\l231\Desktop\Final_Beta 2\Final_Prototype\Final_Prototype\bin\x86\Debug\Final_Prototype.pdb
+C:\Users\l231\Desktop\Final_Beta 2\Final_Prototype\Final_Prototype\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\l231\Desktop\Final_Beta 2\Final_Prototype\Final_Prototype\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\l231\Desktop\Final_Beta 2\Final_Prototype\Final_Prototype\obj\x86\Debug\Final_Prototype.exe
+C:\Users\l231\Desktop\Final_Beta 2\Final_Prototype\Final_Prototype\obj\x86\Debug\Final_Prototype.pdb
+C:\Users\l231\Desktop\Final_Beta 3\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\Coconut.xnb
+C:\Users\l231\Desktop\Final_Beta 3\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\NeckyR_Sheet.xnb
+C:\Users\l231\Desktop\Final_Beta 3\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\NeckyL_Sheet.xnb
+C:\Users\l231\Desktop\Final_Beta 3\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\BossLevelDefault.xnb
+C:\Users\l231\Desktop\Final_Beta 3\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\ForegroundDefault.xnb
+C:\Users\l231\Desktop\Final_Beta 3\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\Singleplayer.xnb
+C:\Users\l231\Desktop\Final_Beta 3\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\Singleplayer_Highlighted.xnb
+C:\Users\l231\Desktop\Final_Beta 3\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\MenuBackground.xnb
+C:\Users\l231\Desktop\Final_Beta 3\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\Exit.xnb
+C:\Users\l231\Desktop\Final_Beta 3\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\Exit_Highlighted.xnb
+C:\Users\l231\Desktop\Final_Beta 3\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\Multiplayer.xnb
+C:\Users\l231\Desktop\Final_Beta 3\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\Multiplayer_Highlighted.xnb
+C:\Users\l231\Desktop\Final_Beta 3\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\Options.xnb
+C:\Users\l231\Desktop\Final_Beta 3\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\Options_Highlighted.xnb
+C:\Users\l231\Desktop\Final_Beta 3\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\DK_Sprint.xnb
+C:\Users\l231\Desktop\Final_Beta 3\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\DK_Jump.xnb
+C:\Users\l231\Desktop\Final_Beta 3\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\DK_trampoline_SS.xnb
+C:\Users\l231\Desktop\Final_Beta 3\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\P1Life.xnb
+C:\Users\l231\Desktop\Final_Beta 3\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\DK_Walk.xnb
+C:\Users\l231\Desktop\Final_Beta 3\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\Health_green.xnb
+C:\Users\l231\Desktop\Final_Beta 3\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\Health_red.xnb
+C:\Users\l231\Desktop\Final_Beta 3\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\Health_orange.xnb
+C:\Users\l231\Desktop\Final_Beta 3\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Sound\Hover.xnb
+C:\Users\l231\Desktop\Final_Beta 3\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Fonts\TimeText.xnb
+C:\Users\l231\Desktop\Final_Beta 3\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Fonts\LiveText.xnb
+C:\Users\l231\Desktop\Final_Beta 3\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Music\BossLoop.xnb
+C:\Users\l231\Desktop\Final_Beta 3\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Music\GameOver.xnb
+C:\Users\l231\Desktop\Final_Beta 3\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Music\MenuLoop.xnb
+C:\Users\l231\Desktop\Final_Beta 3\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Music\MenuStart.xnb
+C:\Users\l231\Desktop\Final_Beta 3\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Music\YouWin.xnb
+C:\Users\l231\Desktop\Final_Beta 3\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Music\BossLoop.wma
+C:\Users\l231\Desktop\Final_Beta 3\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Music\GameOver.wma
+C:\Users\l231\Desktop\Final_Beta 3\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Music\MenuLoop.wma
+C:\Users\l231\Desktop\Final_Beta 3\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Music\MenuStart.wma
+C:\Users\l231\Desktop\Final_Beta 3\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Music\YouWin.wma
+C:\Users\l231\Desktop\Final_Beta 3\Final_Prototype\Final_Prototype\bin\x86\Debug\Final_Prototype.exe
+C:\Users\l231\Desktop\Final_Beta 3\Final_Prototype\Final_Prototype\bin\x86\Debug\Final_Prototype.pdb
+C:\Users\l231\Desktop\Final_Beta 3\Final_Prototype\Final_Prototype\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\l231\Desktop\Final_Beta 3\Final_Prototype\Final_Prototype\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\l231\Desktop\Final_Beta 3\Final_Prototype\Final_Prototype\obj\x86\Debug\Final_Prototype.exe
+C:\Users\l231\Desktop\Final_Beta 3\Final_Prototype\Final_Prototype\obj\x86\Debug\Final_Prototype.pdb
+C:\Users\l231\Desktop\Final_Beta 3\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\Diddy_Jump.xnb
+C:\Users\l231\Desktop\Final_Beta 3\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\Diddy_Sprint.xnb
+C:\Users\l231\Desktop\Final_Beta 3\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\Diddy_Walk.xnb
+C:\Users\l231\Desktop\Final_Beta 4\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\Coconut.xnb
+C:\Users\l231\Desktop\Final_Beta 4\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\NeckyR_Sheet.xnb
+C:\Users\l231\Desktop\Final_Beta 4\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\NeckyL_Sheet.xnb
+C:\Users\l231\Desktop\Final_Beta 4\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\BossLevelDefault.xnb
+C:\Users\l231\Desktop\Final_Beta 4\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\ForegroundDefault.xnb
+C:\Users\l231\Desktop\Final_Beta 4\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\Singleplayer.xnb
+C:\Users\l231\Desktop\Final_Beta 4\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\Singleplayer_Highlighted.xnb
+C:\Users\l231\Desktop\Final_Beta 4\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\MenuBackground.xnb
+C:\Users\l231\Desktop\Final_Beta 4\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\Exit.xnb
+C:\Users\l231\Desktop\Final_Beta 4\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\Exit_Highlighted.xnb
+C:\Users\l231\Desktop\Final_Beta 4\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\Multiplayer.xnb
+C:\Users\l231\Desktop\Final_Beta 4\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\Multiplayer_Highlighted.xnb
+C:\Users\l231\Desktop\Final_Beta 4\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\Options.xnb
+C:\Users\l231\Desktop\Final_Beta 4\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\Options_Highlighted.xnb
+C:\Users\l231\Desktop\Final_Beta 4\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\DK_Sprint.xnb
+C:\Users\l231\Desktop\Final_Beta 4\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\DK_Jump.xnb
+C:\Users\l231\Desktop\Final_Beta 4\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\DK_trampoline_SS.xnb
+C:\Users\l231\Desktop\Final_Beta 4\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\P1Life.xnb
+C:\Users\l231\Desktop\Final_Beta 4\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\DK_Walk.xnb
+C:\Users\l231\Desktop\Final_Beta 4\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\Health_green.xnb
+C:\Users\l231\Desktop\Final_Beta 4\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\Health_red.xnb
+C:\Users\l231\Desktop\Final_Beta 4\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\Health_orange.xnb
+C:\Users\l231\Desktop\Final_Beta 4\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\Diddy_Jump.xnb
+C:\Users\l231\Desktop\Final_Beta 4\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\Diddy_Sprint.xnb
+C:\Users\l231\Desktop\Final_Beta 4\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\Diddy_Walk.xnb
+C:\Users\l231\Desktop\Final_Beta 4\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Sound\Hover.xnb
+C:\Users\l231\Desktop\Final_Beta 4\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Fonts\TimeText.xnb
+C:\Users\l231\Desktop\Final_Beta 4\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Fonts\LiveText.xnb
+C:\Users\l231\Desktop\Final_Beta 4\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Music\BossLoop.xnb
+C:\Users\l231\Desktop\Final_Beta 4\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Music\GameOver.xnb
+C:\Users\l231\Desktop\Final_Beta 4\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Music\MenuLoop.xnb
+C:\Users\l231\Desktop\Final_Beta 4\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Music\MenuStart.xnb
+C:\Users\l231\Desktop\Final_Beta 4\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Music\YouWin.xnb
+C:\Users\l231\Desktop\Final_Beta 4\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Music\BossLoop.wma
+C:\Users\l231\Desktop\Final_Beta 4\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Music\GameOver.wma
+C:\Users\l231\Desktop\Final_Beta 4\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Music\MenuLoop.wma
+C:\Users\l231\Desktop\Final_Beta 4\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Music\MenuStart.wma
+C:\Users\l231\Desktop\Final_Beta 4\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Music\YouWin.wma
+C:\Users\l231\Desktop\Final_Beta 4\Final_Prototype\Final_Prototype\bin\x86\Debug\Final_Prototype.exe
+C:\Users\l231\Desktop\Final_Beta 4\Final_Prototype\Final_Prototype\bin\x86\Debug\Final_Prototype.pdb
+C:\Users\l231\Desktop\Final_Beta 4\Final_Prototype\Final_Prototype\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\l231\Desktop\Final_Beta 4\Final_Prototype\Final_Prototype\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\l231\Desktop\Final_Beta 4\Final_Prototype\Final_Prototype\obj\x86\Debug\Final_Prototype.exe
+C:\Users\l231\Desktop\Final_Beta 4\Final_Prototype\Final_Prototype\obj\x86\Debug\Final_Prototype.pdb
+C:\Users\l231\Desktop\Final_Beta 4\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\P2Life.xnb
+C:\Users\l231\Desktop\Final_Beta 4\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Sound\DiddyHurt.xnb
+C:\Users\l231\Desktop\Final_Beta 4\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Sound\DKHurt.xnb
+C:\Users\l231\Desktop\Final_Beta 4\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Sound\NeckyHurt.xnb
+C:\Users\l231\Desktop\Final_Beta 4\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Sound\TireBig.xnb
+C:\Users\l231\Desktop\Final_Beta 4\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Sound\TireSmall.xnb
+C:\Users\l231\Desktop\Final_Beta 4\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Sound\NeckyShoot.xnb
+C:\Users\l231\Desktop\Final_Beta 4\Final_Prototype\Final_Prototype\bin\x86\Debug\Content\Images\Diddy_Win.xnb
