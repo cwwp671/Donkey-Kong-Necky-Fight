@@ -1,2 +1,2 @@
-# Donkey Kong Necky Fight
- A recreation of the Donkey Kong Necky boss fight using C#. Local Multiplayer and Xbox Controller compatible.
+# Necky's Revenge
+ A remake of the Donkey Kong Country first boss fight. Created in 2013. This project used Microsoft's XNA 4.0 Framework for C#. It is a discontinued framework.
