@@ -1,4 +1,11 @@
-﻿using System;
+﻿/*
+ * Author: Connor Pandolph
+ * Game: Necky's Revenge
+ * Framework: Microsoft XNA
+ * Date: 2013
+ */
+ 
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using Microsoft.Xna.Framework;
@@ -78,11 +85,6 @@ namespace Engine
             PlayerActor.sourceRectangle = StartRect;
             boundsRect = new Rectangle(0, 0, PlayerActor.sourceRectangle.Value.Width, PlayerActor.sourceRectangle.Value.Height);
             PlayerActor.origin = new Vector2(boundsRect.Width / 2f, boundsRect.Height / 2f);
-            Console.WriteLine("OriginX: " + PlayerActor.origin.X);
-            Console.WriteLine("OriginY: " + PlayerActor.origin.Y);
-            Console.WriteLine("collisionX: " + (int)(PlayerActor.position.X - PlayerActor.origin.X * PlayerActor.scale.X));
-            Console.WriteLine("collisionY: " + (int)(PlayerActor.position.Y - PlayerActor.origin.Y * PlayerActor.scale.Y));
-
         }
 
         public void UpdatePosition()
@@ -640,7 +642,6 @@ namespace Engine
             canWalkR = false;
             canSprintL = false;
             canSprintR = false;
-            //canWin = false;
         }
 
         public void WallCollide()
@@ -650,7 +651,6 @@ namespace Engine
 
         public void Draw(GameTime gameTime, SpriteBatch SB)
         {
-            //LineDraw.LineDrawer.DrawSolidRectangle(SB, Color.Red, collision);
             PlayerActor.Draw(gameTime, SB);          
         }
 

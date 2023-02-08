@@ -1,10 +1,10 @@
-﻿/*  XNA Line Drawer Class
- *  
- *  Author: Gregory Walek
- * 
- *  Based on the Code Located at 
- *  http://www.xnawiki.com/index.php?title=Drawing_2D_lines_without_using_primitives
+﻿/*
+ * Author: Connor Pandolph
+ * Game: Necky's Revenge
+ * Framework: Microsoft XNA
+ * Date: 2013
  */
+ 
 using System;
 using Microsoft.Xna.Framework;
 using Microsoft.Xna.Framework.Content;
@@ -77,8 +77,6 @@ namespace LineDraw
             Vector2 Previous = Starting;
             float degrees = 360 / Sides;
 
-            //Console.WriteLine(degrees); 
-
             if (Sides < 3)
             {
                 Sides = 36;
@@ -87,13 +85,8 @@ namespace LineDraw
             for (int i = 1; i < Sides;  i++)
             {
                 /// This is drawing the circle Counter Clock Wise) 
-
                 Next = AngleToV2((i * degrees), Radius);
                 LineDrawer.DrawLine2(spriteBatch, width, color, Position + Previous, Position + Next);
-
-                // Debug Line
-                //Console.WriteLine(i+"*" + (i * degrees) + "::" + Previous + "::" + Next); 
-
                 Previous = Next;
 
             }

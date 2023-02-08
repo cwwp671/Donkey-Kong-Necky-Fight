@@ -1,4 +1,11 @@
-﻿using System;
+﻿/*
+ * Author: Connor Pandolph
+ * Game: Necky's Revenge
+ * Framework: Microsoft XNA
+ * Date: 2013
+ */
+ 
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using Microsoft.Xna.Framework;

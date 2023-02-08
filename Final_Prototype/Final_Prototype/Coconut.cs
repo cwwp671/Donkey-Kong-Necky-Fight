@@ -1,4 +1,11 @@
-﻿using System;
+﻿/*
+ * Author: Connor Pandolph
+ * Game: Necky's Revenge
+ * Framework: Microsoft XNA
+ * Date: 2013
+ */
+ 
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -57,17 +64,10 @@ namespace Engine
             position.X = -1000;
             position.Y = -1000;
             sourceRectangle = new Rectangle(0, 0, texture.Width, texture.Height);
-
-            Console.WriteLine(" -Coconut x-origin: " + OriginPt_Coconut.X);
-            Console.WriteLine(" -Coconut y-origin: " + OriginPt_Coconut.Y);
-            Console.WriteLine(" -Coconut Scale X: " + scale.X);
-            Console.WriteLine(" -Coconut Scale Y: " + scale.Y);
         }
 
         public void Set_Coconut(Vector2 DKPosition, Vector2 NeckyInitialPosition, Vector2 DefaultResolution, Vector2 CurrentResolution, int msPerFrame, bool spawnRight)
         {
-            Console.WriteLine("inside Set_Coconut Function");
-
             MSPF = msPerFrame;
             DKPos = DKPosition;
             NeckyStartPos = NeckyInitialPosition;
@@ -100,11 +100,6 @@ namespace Engine
             canBounce = false;
 
             UpdateCollision();
-            Console.WriteLine(" -Coconut Height: " + h + " Pixels");
-            Console.WriteLine(" -Coconut Acceleration: " + a + " Pixels Per Second²");
-            Console.WriteLine(" -Coconut Fall Time: " + t + " Seconds");
-            Console.WriteLine(" -Coconut Distance: " + d + " Pixels");
-            Console.WriteLine(" -Coconut X-velocity: " + vx + " Pixels Per Second");
         }//end Set_Coconut Function
 
         public void Shoot_Coconut(GameTime gameTime, Necky NeckyL)
@@ -208,11 +203,6 @@ namespace Engine
 
             UpdateCollision();
         }
-
-         //public void UpdateCollision()
-         //{
-         //    Collision = new Rectangle((int)(position.X - origin.X), (int)(position.Y - origin.Y), (int)(sourceRectangle.Value.Width * Scaler.X), (int)(sourceRectangle.Value.Height * Scaler.Y));
-         //}
 
     }//end Class
 }//end Namespace

@@ -1,3 +1,10 @@
+/*
+ * Author: Connor Pandolph
+ * Game: Necky's Revenge
+ * Framework: Microsoft XNA
+ * Date: 2013
+ */
+ 
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -19,9 +26,7 @@ namespace Final_Prototype
         Coconut Coconut1;
         PlayerLives PlayerOneLife;
         PlayerLives PlayerTwoLife;
-        //Player DK;
         DonkeyKong PlayerOne;
-        //DiddyKong PlayerOne;
         DiddyKong PlayerTwo;
         Necky NeckyL;              //Left Side Necky (Boss)
         Necky NeckyR;              //Right Side Necky (Boss)
@@ -65,7 +70,6 @@ namespace Final_Prototype
 
         protected override void Initialize()
         {
-            // TODO: Add your initialization logic here
             Set_Display();
             Set_Scale();
             Set_Background();
@@ -103,10 +107,8 @@ namespace Final_Prototype
 
         protected override void LoadContent()
         {
-            // Create a new SpriteBatch, which can be used to draw textures.
             spriteBatch = new SpriteBatch(GraphicsDevice);
 
-            // TODO: use this.Content to load your game content here
             MenuTheme = Content.Load<Song>(@"Music\MenuStart");
             MenuLoop = Content.Load<Song>(@"Music\MenuLoop");
             GameTheme = Content.Load<Song>(@"Music\BossLoop");
@@ -116,7 +118,6 @@ namespace Final_Prototype
 
         protected override void UnloadContent()
         {
-            // TODO: Unload any non ContentManager content here
         }
 
         protected override void Update(GameTime gameTime)
@@ -129,13 +130,11 @@ namespace Final_Prototype
             }
 
             newMouseState = Mouse.GetState();
-            //Keys[] pressedKeys = currentKeyboardState.GetPressed();
 
             // Allows the game to exit
             if (GamePad.GetState(PlayerIndex.One).Buttons.Back == ButtonState.Pressed || newKeyState.IsKeyDown(Keys.Escape))
                 this.Exit();
-
-            // TODO: Add your update logic here                   
+                
             if (GameMenu.inMenu == true)
             {
                 if (isPlaying == false)
@@ -230,8 +229,6 @@ namespace Final_Prototype
                         trampoline.canPlaySound = true;
                     }
 
-                    //////////////////////////////////////////////////////////////////////////////////////
-                    //////////////////////////////////////////////////////////////////////////////////////
                     if (Multiplayer && PlayerTwoLife.lifeCounter != 0)
                     {
                         if (PlayerTwo.isCollidingWith(Coconut1.collision) && !Coconut1.hitPlayer)
@@ -275,8 +272,6 @@ namespace Final_Prototype
                             trampoline.canPlaySound = true;
                         }
                     }
-                    ////////////////////////////////////////////////////////////////////////////////////////////
-                    ////////////////////////////////////////////////////////////////////////////////////////////
 
                     if (reachedSpawn == false && movingBack == false)
                     {
@@ -329,8 +324,6 @@ namespace Final_Prototype
                         hasBeenHit = true;
                     }
 
-                    ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-                    ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
                     if (Multiplayer && PlayerTwoLife.lifeCounter != 0)
                     {
                         if ((NeckyL.gotHurt == false || NeckyR.gotHurt == false) && hasBeenHit == false && Coconut1.canHitBox && (PlayerTwo.isCollidingWith(NeckyL.HitBox) || PlayerTwo.isCollidingWith(NeckyR.HitBox)))
@@ -360,8 +353,6 @@ namespace Final_Prototype
                             hasBeenHit = true;
                         }
                     }
-                    /////////////////////////////////////////////////////////////////////////////////////////////////////////
-                    /////////////////////////////////////////////////////////////////////////////////////////////////////////
 
                     if (!spawnRight && NeckyL.gotHurt && NeckyL.NeckyActor.animationPlayed)
                     {
@@ -533,7 +524,6 @@ namespace Final_Prototype
             }
 
             oldMouseState = newMouseState;
-            //UpdateOldInputs();
             base.Update(gameTime);
         }
 
@@ -541,7 +531,6 @@ namespace Final_Prototype
         {
             GraphicsDevice.Clear(Color.CornflowerBlue);
 
-            // TODO: Add your drawing code here
             spriteBatch.Begin();           
             if (GameMenu.inMenu == true)
             {
@@ -580,10 +569,6 @@ namespace Final_Prototype
             spriteBatch.End();
             base.Draw(gameTime);
         }
-
-        /********************************************************************/
-        /****************************MY*FUNCTIONS****************************/
-        /********************************************************************/
 
         public void TireBounce(bool isPlayerOne)
         {
@@ -701,8 +686,6 @@ namespace Final_Prototype
         //Decides Whether to Spawn Necky on Left or Right Side
         private void RandomGeneration()
         {
-            Console.WriteLine("inside RandomGeneration Function");
-
             random = new Random();               //Random Seeder
             int randomSpawn = random.Next(1, 3); //Random Number Between 1 and 2
             reachedSpawn = false;                //Indicates Necky Has Not Moved to Start Point Yet
@@ -711,21 +694,17 @@ namespace Final_Prototype
             //If Random Number is 1 Spawn Necky on Right Side
             if (randomSpawn == 1)
             {
-                Console.WriteLine(" -Spawn NeckyR");
                 spawnRight = true;
                 return;
             }
 
             //Otherwise Spawn Necky on Left Side
-            Console.WriteLine(" -Spawn NeckyL");
             spawnRight = false;
         }//end RandomGeneration Function
 
         //Creates Left Side Necky
         private void Set_NeckyL()
         {
-            Console.WriteLine("inside Set_NeckyL Function");
-
             //If NeckyL is Uninitialized Creates NeckyL
             if(NeckyL == null)
             {
@@ -734,11 +713,6 @@ namespace Final_Prototype
                 NeckyL.NeckyActor.origin = OriginPt_NeckyL;       //Assigns Origin Point to NeckyL
                 NeckyL.NeckyActor.scale.X = SpriteScale.X * 2.0f; //Scale X by Scale Factor and Extra Scale Increase
                 NeckyL.NeckyActor.scale.Y = SpriteScale.Y * 2.0f; //Scale Y by Scale Factor and Extra Scale Increase
-
-                Console.WriteLine(" -NeckyL x-origin: " + OriginPt_NeckyL.X);
-                Console.WriteLine(" -NeckyL y-origin: " + OriginPt_NeckyL.Y);
-                Console.WriteLine(" -NeckyL Scale X: " + NeckyL.NeckyActor.scale.X);
-                Console.WriteLine(" -NeckyL Scale Y: " + NeckyL.NeckyActor.scale.Y);
             }
 
             if (Coconut1 != null)
@@ -755,17 +729,11 @@ namespace Final_Prototype
             NeckyL.a = (DisplaySettings.defaultHeight / 2) * SpriteScale.Y;
             NeckyL.t = (float)Math.Sqrt(((DisplaySettings.currentHeight - 50 * SpriteScale.X) - StartPt_NeckyL.Y) / (0.5f * NeckyL.a)) * 1000f;
             NeckyL.startY = StartPt_NeckyL.Y;
-            Console.WriteLine(" -NeckyL Start x-position: " + StartPt_NeckyL.X);
-            Console.WriteLine(" -NeckyL Start y-position: " + StartPt_NeckyL.Y);
-            Console.WriteLine(" -NeckyL Real x-position: " + NeckyL.NeckyActor.position.X);
-            Console.WriteLine(" -NeckyL Real y-position: " + NeckyL.NeckyActor.position.Y);
         }//end Set_NeckyL Function
 
         //Creates Right Side Necky
         private void Set_NeckyR()
         {
-            Console.WriteLine("inside Set_NeckyR Function");
-
             //If NeckyR is Uninitialized Creates NeckyR
             if(NeckyR == null)
             {
@@ -774,17 +742,13 @@ namespace Final_Prototype
                 NeckyR.NeckyActor.origin = OriginPt_NeckyR;       //Assigns Origin Point to NeckyR
                 NeckyR.NeckyActor.scale.X = SpriteScale.X * 2.0f; //Scale X by Scale Factor and Extra Scale Increase
                 NeckyR.NeckyActor.scale.Y = SpriteScale.Y * 2.0f; //Scale Y by Scale Factor and Extra Scale Increase
-
-                Console.WriteLine(" -NeckyR x-origin: " + OriginPt_NeckyR.X);
-                Console.WriteLine(" -NeckyR y-origin: " + OriginPt_NeckyR.Y);
-                Console.WriteLine(" -NeckyR Scale X: " + NeckyR.NeckyActor.scale.X);
-                Console.WriteLine(" -NeckyR Scale Y: " + NeckyR.NeckyActor.scale.Y);
             }
 
             if (Coconut1 != null)
             {
                 Coconut1.canHitBox = false;
             }
+			
             hasBeenHit = false;
             NeckyR.gotHurt = false;
             float randomY = random.Next(DisplaySettings.currentHeight / 4, (DisplaySettings.currentHeight / 4) * 3);                    //Random y-position Between 1/4 and 3/4 of Screen
@@ -794,17 +758,11 @@ namespace Final_Prototype
             NeckyR.a = (DisplaySettings.defaultHeight / 2) * SpriteScale.Y;
             NeckyR.t = (float)Math.Sqrt(((DisplaySettings.currentHeight - 50 * SpriteScale.X) - StartPt_NeckyR.Y) / (0.5f * NeckyR.a)) * 1000f;
             NeckyR.startY = StartPt_NeckyR.Y;
-            Console.WriteLine(" -NeckyR Start x-position: " + StartPt_NeckyR.X);
-            Console.WriteLine(" -NeckyR Start y-position: " + StartPt_NeckyR.Y);
-            Console.WriteLine(" -NeckyR Real x-position: " + NeckyR.NeckyActor.position.X);
-            Console.WriteLine(" -NeckyR Real y-position: " + NeckyR.NeckyActor.position.Y);
         }//end Set_NeckyR Function
 
         //Removes Left Side Necky from Screen
         private void Remove_NeckyL()
         {
-            Console.WriteLine("inside Remove_NeckyL Function");
-
             //If NeckyL is Uninitialized Creates NeckyL
             if(NeckyL == null)
             {
@@ -813,34 +771,23 @@ namespace Final_Prototype
             }
 
             NeckyL.NeckyActor.position = new Vector2(-100, -100); //Move NeckyL Off the Screen
-
-            Console.WriteLine(" -NeckyL x-position: " + NeckyL.NeckyActor.position.X);
-            Console.WriteLine(" -NeckyL y-position: " + NeckyL.NeckyActor.position.Y);
         }//end Remove_NeckyL Function
 
         //Removes Right Side Necky from Screen
         private void Remove_NeckyR()
         {
-            Console.WriteLine("inside Remove_NeckyR Function");
-
             //If NeckyR is Uninitialized Creates NeckyR
             if(NeckyR == null)
             {
-                Console.WriteLine(" -NeckyR Uninitialized");
                 Set_NeckyR();
             }
 
             NeckyR.NeckyActor.position = new Vector2(-100, -100); //Move NeckyR Off the Screen
-
-            Console.WriteLine(" -NeckyR x-position: " + NeckyR.NeckyActor.position.X);
-            Console.WriteLine(" -NeckyR y-position: " + NeckyR.NeckyActor.position.Y);
         }//end Remove_NeckyR Function
 
         //Spawns Necky on Left or Right Side Based on Random Generation
         private void Spawn_Necky()
         {
-            Console.WriteLine("inside Spawn_Necky Function");
-
             NeckyIdleAngle = 0; //Resets Idle 'Animation' Angle
             RandomGeneration(); //Calls RandomGeneration Function
 
@@ -919,8 +866,6 @@ namespace Final_Prototype
         //Despawns Necky
         private void Necky_MoveOffScreen()
         {
-            //Console.WriteLine("inside Necky_MoveOffScreen Function");
-
             float speed = (0.75f * SpriteScale.X); //Speed of Necky Moving to Despawn Coordinates
             float offScreen;
             movingBack = true;
@@ -985,7 +930,6 @@ namespace Final_Prototype
                 NeckyR.canAttack = true;
             }
 
-            
             Coconut1.canSet = true;
         }//end Fire_Coconut
 

@@ -1,4 +1,11 @@
-﻿using System;
+﻿/*
+ * Author: Connor Pandolph
+ * Game: Necky's Revenge
+ * Framework: Microsoft XNA
+ * Date: 2013
+ */
+ 
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -26,14 +33,11 @@ namespace Engine
             defaultHeight = 600;
             currentWidth = GraphicsAdapter.DefaultAdapter.CurrentDisplayMode.Width;
             currentHeight = GraphicsAdapter.DefaultAdapter.CurrentDisplayMode.Height;
-            //currentWidth = 800;                                                     //TEST RESOLUTION X SETTING
-            //currentHeight = 600;                                                    //TEST RESOLUTION Y SETTING
             graphics.PreferredBackBufferWidth = currentWidth;
             graphics.PreferredBackBufferHeight = currentHeight;
             graphics.IsFullScreen = true;
             graphics.SynchronizeWithVerticalRetrace = true;
             graphics.PreferMultiSampling = true;
-            //graphics.IsFullScreen = false;                                          //TEST RESOLUTION FULLSCREEN OFF SETTING
             graphics.ApplyChanges();
         }
 
